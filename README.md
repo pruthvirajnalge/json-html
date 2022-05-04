@@ -9,4 +9,4 @@ It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
 
 Screenshots:
-![This is an image]C:\Users\admin\Desktop\GItHub\Screenshot (12).png)
+!(C:\Users\admin\Desktop\GItHub\Screenshot (12).png)
